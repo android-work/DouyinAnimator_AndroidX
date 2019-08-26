@@ -72,5 +72,5 @@
             设置环形进度大小 setSize(float size)
 	    
 
-    ### 图片描述<br>
+    ### 图片描述
     ![图片描述](https://github.com/android-work/DouyinAnimator_AndroidX/blob/master/IMAGE/Screenshot_2019-08-23-15-35-18.png)
